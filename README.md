@@ -7,3 +7,5 @@ Taller desarrollado por el "Google Developer Student Club de la Universidad de G
 Sesión de GitHub
 
 ### Insertaremos una imagen
+
+![Hack](img/Hackwomen.jpeg)
